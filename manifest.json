@@ -1,0 +1,11 @@
+{
+  "name": "Enfoque",
+  "short_name": "Enfoque",
+  "description": "App de productividad: tareas, calendario, pomodoro y estadísticas",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14151c",
+  "theme_color": "#14151c",
+  "orientation": "portrait"
+}
